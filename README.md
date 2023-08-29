@@ -1,6 +1,8 @@
 # Result_Management_System
-A java swing project for managing student results
-
+• Created a student management application using Java Swing framework with role-based access, allowing
+administrators to manage student data and students to access their results.
+• Integrated MySQL to facilitate efficient storage, retrieval, and manipulation of student result information,
+supporting functions like adding, updating, and deleting marks in various subjects
 
 
 Home Screen
